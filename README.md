@@ -7,19 +7,23 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<div style="display: flex; align-items: center;">
+  <div>
+    <ul>
+      <li>Mi nombre es Jorge y tengo 21 años</li>
+      <li>Me apasiona la robótica y la tecnología en general</li>
+      <li>Actualmente estoy aprendiendo Java y Bases de datos</li>
+      <li>En mis tiempos libres hago experimentos electrónicos</li>
+      <li>Me gusta el cafe Cappuccino</li>
+    </ul>
+  </div>
 
-<br>
-
-- Mi nombre es Jorge y tengo 21 años
-- Me apasiona la robótica y la tecnología en general
-- Actualmente estoy aprendiendo Java y Bases de datos por mi cuenta
-- En mis tiempos libres hago experimentos electrónicos  
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+  <div style="margin-left: 30px;">
+    <img src="./img/cafe.jpg" alt="Cafe" width="250">
+  </div>
+</div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
