@@ -2,6 +2,7 @@
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Estudiante+de+IT,++;UNPAZ;"></a>
+
 </p>
 
 <br>
@@ -16,10 +17,11 @@
       <li>Me apasiona la robótica y la tecnología en general</li>
       <li>Actualmente estoy aprendiendo Java y Bases de datos</li>
       <li>En mis tiempos libres hago experimentos electrónicos</li>
-      
-		<li>Me gusta el cafe Cappuccino</li>
+	  <!--- <li>Me gusta el cafe Cappuccino</li>-->
     </ul>
+	
   </div>
+
 <!---
   <div style="margin-left: 30px;">
 	  
