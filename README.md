@@ -16,7 +16,8 @@
       <li>Me apasiona la robótica y la tecnología en general</li>
       <li>Actualmente estoy aprendiendo Java y Bases de datos</li>
       <li>En mis tiempos libres hago experimentos electrónicos</li>
-      <li>Me gusta el cafe Cappuccino</li>
+      
+		<li>Me gusta el cafe Cappuccino</li>
     </ul>
   </div>
 <!---
